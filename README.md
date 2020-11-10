@@ -12,4 +12,4 @@ to be *dangerous*. This means you'll be able to use Git to track changes in
 your projects, back up data, share your work with others, and collaborate
 with programmers and other users of Git.
 
-Click here for Git Documentation <a href="click here">https://www.git-scm.com/doc</a>
+Click here for Git Documentation <a href="https://www.git-scm.com/doc">click here</a>
